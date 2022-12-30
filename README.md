@@ -4,7 +4,7 @@ Projeto alura plus.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Site fitness PRO**
+| :sparkles: Nome        | **Site Alura plus**
 | :label: Tecnologias |  html, css
 | :rocket: URL         | https://alissondiasdev.github.io/Aluraplus/
 | :fire: Desafio     | https://url-do-desafio.com.br
