@@ -1,11 +1,12 @@
 # Alura plus
 
 Projeto alura plus.
+<i class="devicon-html5-plain-wordmark colored"></i>
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Página inicial da Alura+**
-| :label: Tecnologias |  <i class="devicon-html5-plain-wordmark colored"></i>, css
+| :label: Tecnologias |  html, css
 | :rocket: URL         | https://alissondiasdev.github.io/Aluraplus/
 | :fire: Course     | https://www.alura.com.br/curso-online-html-css-praticando-html-css
 
