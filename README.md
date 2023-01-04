@@ -10,8 +10,7 @@ Projeto alura plus.
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Página inicial da Alura+**
-| :label: Tecnologias |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
-          
+| :label: Tecnologias |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />          
 | :rocket: URL         | https://alissondiasdev.github.io/Aluraplus/
 | :fire: Course     | https://www.alura.com.br/curso-online-html-css-praticando-html-css
 
