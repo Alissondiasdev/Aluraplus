@@ -19,7 +19,7 @@ Projeto alura plus.
 Detalhes do projeto
 Desenvolvimento da página inicial da Alura+ (um site de divulgação de um plano que combina a Alura com o Alura Língua), baseado no design disponibilizado em um arquivo Figma.
 
-Créditos
+|Créditos
 Este projeto foi desenvolvido em um curso da Alura chamado "HTML e CSS: praticando HTML/CSS", e foi uma forma de consolidar todos os conhecimentos aprendidos na formação de HTML/CSS.
 
 Instrutora: Mônica Mazzochi Hillman
